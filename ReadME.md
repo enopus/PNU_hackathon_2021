@@ -31,4 +31,5 @@
 - [SKTIME](https://sktime.org/)
 - [Anaconda | Individual Edition](https://www.anaconda.com/products/individual)
 - [scikit-learn: machine learning in Python — scikit-learn 0.16.1 documentation](https://scikit-learn.org/)
-
+- [Using Voilà — voila 0.2.12 documentation](https://voila.readthedocs.io/en/stable/using.html)
+- [Bokeh documentation — Bokeh 2.4.0 Documentation](http://docs.bokeh.org/en/latest/)
